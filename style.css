@@ -39,3 +39,8 @@ li {
 	list-style-type: none;
 	display: inline-block;
 }
+
+img {
+	width: 300px;
+	height: 100px;
+}
